@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GL\eglew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GL\glew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GL\glxew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GL\wglew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GLFW\glfw3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GLFW\glfw3native.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Release\EduPhong.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Release\GlGeomBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Release\GlGeomCylinder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Release\GlGeomSphere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Release\GlGeomTorus.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Release\GlShaderMgr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Release\LinearR3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Release\LinearR4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Release\MathMisc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Release\MyGeometries.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Release\PhongData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Release\RgbImage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Release\TextureProj.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Release\GL\eglew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Release\GL\glew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Release\GL\glxew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Release\GL\wglew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Release\GLFW\glfw3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Release\GLFW\glfw3native.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Release\2k_mercury.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Release\2k_neptune.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Release\2k_venus_surface.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Release\631pxGreenStar_1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Release\blueFace.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Release\brass.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Release\BrickWallTexture.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Release\circle.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Release\coin.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Release\cola.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Release\earth_clouds.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Release\floor.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Release\greenFace.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Release\hinoki.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Release\jupitermap.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Release\KalachakraSera.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Release\marble-background.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Release\mercury.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Release\mintTile.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Release\navyTile.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Release\neptune.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Release\orangeFace.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Release\poster.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Release\redFace.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Release\RoughWood.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Release\silver.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Release\tableMat.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Release\tableMat2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Release\venus.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Release\whiteFace.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Release\yellowFace.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Release\EduPhong.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\GlGeomBase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\GlGeomCylinder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\GlGeomSphere.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\GlGeomTorus.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\GlShaderMgr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\LinearR3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\LinearR4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\MyGeometries.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\PhongData.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\RgbImage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\TextureProj.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Release\EduPhong.glsl" />
+    <None Include="Release\FinalProject.exe" />
+    <None Include="Release\FinalProject.exe.recipe" />
+    <None Include="Release\FinalProject.iobj" />
+    <None Include="Release\FinalProject.ipdb" />
+    <None Include="Release\FinalProject.pdb" />
+    <None Include="Release\glew32.dll" />
+    <None Include="Release\Math 155A Project 7.pdf" />
+    <None Include="Release\msvcp140.dll" />
+    <None Include="Release\MyShaders.glsl" />
+    <None Include="Release\MyShadersDemo.glsl" />
+    <None Include="Release\Project7.exe" />
+    <None Include="Release\Project7.exe.recipe" />
+    <None Include="Release\Project7.iobj" />
+    <None Include="Release\Project7.ipdb" />
+    <None Include="Release\Project7.pdb" />
+    <None Include="Release\vc143.pdb" />
+    <None Include="Release\vcruntime140.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="Release\EduPhong.obj" />
+    <Object Include="Release\GlGeomBase.obj" />
+    <Object Include="Release\GlGeomCylinder.obj" />
+    <Object Include="Release\GlGeomSphere.obj" />
+    <Object Include="Release\GlGeomTorus.obj" />
+    <Object Include="Release\GlShaderMgr.obj" />
+    <Object Include="Release\LinearR3.obj" />
+    <Object Include="Release\LinearR4.obj" />
+    <Object Include="Release\MyGeometries.obj" />
+    <Object Include="Release\PhongData.obj" />
+    <Object Include="Release\RgbImage.obj" />
+    <Object Include="Release\TextureProj.obj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="Release\glew32.lib" />
+    <Library Include="Release\glew32s.lib" />
+    <Library Include="Release\glfw3.lib" />
+    <Library Include="glew32s.lib" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Release\Project7.Build.CppClean.log" />
+    <Text Include="Release\Project7.log" />
+  </ItemGroup>
+</Project>
