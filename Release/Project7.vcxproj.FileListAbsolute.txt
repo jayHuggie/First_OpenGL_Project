@@ -1,1 +1,2 @@
 C:\Users\Joseph\Documents\Math155A\FinalProject\Release\FinalProject.exe
+C:\Users\Joseph\Desktop\First_OpenGL_Project\Release\FinalProject.exe
